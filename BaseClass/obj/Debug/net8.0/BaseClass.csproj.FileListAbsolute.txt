@@ -1,0 +1,14 @@
+C:\RepTask3-2\BaseClass\bin\Debug\net8.0\BaseClass.exe
+C:\RepTask3-2\BaseClass\bin\Debug\net8.0\BaseClass.deps.json
+C:\RepTask3-2\BaseClass\bin\Debug\net8.0\BaseClass.runtimeconfig.json
+C:\RepTask3-2\BaseClass\bin\Debug\net8.0\BaseClass.dll
+C:\RepTask3-2\BaseClass\bin\Debug\net8.0\BaseClass.pdb
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.AssemblyInfoInputs.cache
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.AssemblyInfo.cs
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.csproj.CoreCompileInputs.cache
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.dll
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\refint\BaseClass.dll
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.pdb
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\BaseClass.genruntimeconfig.cache
+C:\RepTask3-2\BaseClass\obj\Debug\net8.0\ref\BaseClass.dll
