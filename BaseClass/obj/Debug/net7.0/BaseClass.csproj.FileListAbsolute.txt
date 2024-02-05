@@ -1,0 +1,14 @@
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\bin\Debug\net7.0\BaseClass.exe
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\bin\Debug\net7.0\BaseClass.deps.json
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\bin\Debug\net7.0\BaseClass.runtimeconfig.json
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\bin\Debug\net7.0\BaseClass.dll
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\bin\Debug\net7.0\BaseClass.pdb
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.AssemblyInfoInputs.cache
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.AssemblyInfo.cs
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.csproj.CoreCompileInputs.cache
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.dll
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\refint\BaseClass.dll
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.pdb
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\BaseClass.genruntimeconfig.cache
+C:\Programming\C#\OopRep\Task 3-2\BaseClass\obj\Debug\net7.0\ref\BaseClass.dll
