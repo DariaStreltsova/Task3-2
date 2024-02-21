@@ -1,0 +1,4 @@
+C:\Programming\C#\Task3-2\Task3-3\obj\Debug\net7.0\Task 3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Task3-2\Task3-3\obj\Debug\net7.0\Task 3-3.AssemblyInfoInputs.cache
+C:\Programming\C#\Task3-2\Task3-3\obj\Debug\net7.0\Task 3-3.AssemblyInfo.cs
+C:\Programming\C#\Task3-2\Task3-3\obj\Debug\net7.0\Task 3-3.csproj.CoreCompileInputs.cache

@@ -3,10 +3,10 @@ using System;
 
 namespace BaseClass
 {
-    public abstract class BaseClass{
+    public abstract class BaseClass : IBase{
         protected abstract void UserInput();
         protected abstract void RandomInput();
-        public abstract void Output();
+        public abstract void Print();
         public abstract void average();
 
     }

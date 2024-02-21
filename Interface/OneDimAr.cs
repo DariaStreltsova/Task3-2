@@ -95,7 +95,7 @@ namespace BaseClass
 
 
 
-        public override void Output(){
+        public override void Print(){
             for(int i = 0; i < array.Length; i ++){
                 Console.Write(array[i] + " ");
             }

@@ -59,7 +59,7 @@ namespace BaseClass{
         }
 
 
-        public override void Output(){
+        public override void Print(){
             for(int i = 0; i < Length; i ++){
                 for(int j = 0; j < Height; j ++){
                     Console.Write(matrix[i, j] + " ");
