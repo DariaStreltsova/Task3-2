@@ -9,14 +9,7 @@ namespace BaseClass
         public OneDimensionalArray(int n, bool InputByUser = false)
         {
             array = new int[n];
-            if(!InputByUser)
-            {
-                RandomInput();
-            }
-            else
-            {
-                UserInput();
-            }
+            Choice(InputByUser);
         }
     
         protected override void RandomInput(){

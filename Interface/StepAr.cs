@@ -7,14 +7,7 @@ namespace BaseClass
         private int[][] array;
         public StepArray(int wid, bool InputByUser = false){
             array = new int[wid][];
-
-
-            if(!InputByUser){
-                RandomInput();
-            }
-            else{
-                UserInput();
-            }
+            Choice(InputByUser);
         }
 
 

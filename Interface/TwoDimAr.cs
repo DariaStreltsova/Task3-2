@@ -9,12 +9,7 @@ namespace BaseClass{
             matrix = new int[len, heig];
             Length = len;
             Height = heig;
-            if(!InputByUser){
-                RandomInput();
-            }
-            else{
-                UserInput();
-            }
+            Choice(InputByUser);
         }
     
         protected override void RandomInput(){
